@@ -11,6 +11,7 @@ Understanding what lines of code apply to each individual part of the website.
 
 ## Link
 https://github.com/bhuynh017/Horiseon-Redo
+https://bhuynh017.github.io/Horiseon-Redo/
 
 ![](Develop/assets/images/Screenshot.png)
 ![](Develop/assets/images/Screenshot%202.png)
